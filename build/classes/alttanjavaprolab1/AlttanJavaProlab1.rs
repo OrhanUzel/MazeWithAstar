@@ -1,0 +1,8 @@
+alttanjavaprolab1.Problem2Main$2
+alttanjavaprolab1.Problem2Main$1
+alttanjavaprolab1.Problem2Main$4
+alttanjavaprolab1.Problem2Main
+alttanjavaprolab1.Problem2Main$3
+alttanjavaprolab1.Problem2Main$6
+alttanjavaprolab1.Problem2Main$5
+alttanjavaprolab1.Problem2Main$7
