@@ -1,0 +1,1 @@
+This project coding with Java language and NetBeans platform. In this Project you can move the pretty character in the maze and you can collect to treasures just like playing game. Additionally if you want starting the simulation the application return to user shortest paths from start to treasures.
